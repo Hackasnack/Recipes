@@ -1,0 +1,37 @@
+#kitchenaid {
+    color: blue;
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+#cookie {
+        width: 30%;
+        height: auto;
+}
+
+.title {
+    font-size: 50px;
+}
+
+body {
+    background-color: bisque;
+
+}
+
+nav {
+    text-align: right;
+
+}
+
+#sc{
+    background-image: url("https://lilluna.com/wp-content/uploads/2022/07/snickerdoodles-final3-resize-14.jpg");
+    width: 200px;
+    height: 500px;
+}
